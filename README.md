@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a PhD student at Imperial College London. 
 
 <!--
 **CCDyson/CCDyson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
